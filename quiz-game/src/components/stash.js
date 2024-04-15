@@ -1,0 +1,48 @@
+export const questionStash = [
+  {
+    id: 1,
+    question: "Co oznacza skrót HTML ?",
+    answerOne: "Hypertext Markup Language",
+    answerTwo: "Home Tool Markup Language",
+    answerThree: "Hyperlinking Text Management Language",
+    answerFour: "Hyper Transfer Markup Language",
+    correctAnswer: "Hypertext Markup Language",
+  },
+  {
+    id: 2,
+    question: "Które z poniższych zwierząt jest ssakiem jajorodnym?",
+    answerOne: "Orangutan",
+    answerTwo: "Krokodyl",
+    answerThree: "Ornitorink",
+    answerFour: "Żyrafa",
+    correctAnswer: "Ornitorink",
+  },
+  {
+    id: 3,
+    question: "Które miasto jest stolicą Polski?",
+    answerOne: "Kraków",
+    answerTwo: "Gdańsk",
+    answerThree: "Warszawa",
+    answerFour: "Gniezno",
+    correctAnswer: "Warszawa",
+  },
+  {
+    id: 4,
+    question: "Który z podanych kolorów jest podstawowym kolorem tęczy?",
+    answerOne: "Fioletowy",
+    answerTwo: "Zielony",
+    answerThree: "Różowy",
+    answerFour: "Czerwony",
+    correctAnswer: "Czerwony",
+  },
+  {
+    id: 5,
+    question:
+      "Który z poniższych wynalazków został wynaleziony przez Marię Skłodowską-Curię?",
+    answerOne: "Telefon",
+    answerTwo: "Internet",
+    answerThree: "Radioterapia",
+    answerFour: "Samolot",
+    correctAnswer: "Radioterapia",
+  },
+];

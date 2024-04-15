@@ -1,9 +1,7 @@
-import styles from "./Header.module.css";
-
 export function Header() {
   return (
-    <div>
-      <h1>Quiz Game</h1>
+    <div className="h-44">
+      <h1 className="text-center text-6xl">Quiz Game</h1>
     </div>
   );
 }
